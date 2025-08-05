@@ -1,6 +1,5 @@
 
-package verify;
-package verify;
+package ver;
 
 import java.util.Scanner;
 
